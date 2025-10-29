@@ -1,6 +1,6 @@
 from src.uci_engine import UCIEngine
 
-STOCKFISH_PATH = r"D:\stockfish-windows-x86-64-avx2\stockfish-windows-x86-64-avx2.exe"
+STOCKFISH_PATH = r"D:\path\to\stockfish.exe"
 # ganti sesuai lokasi file engine kamu
 
 def main():
